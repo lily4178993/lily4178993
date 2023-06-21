@@ -1,13 +1,35 @@
-# Hey There. <br>I'm Nelly 💫
-🔭 Currently  I'm focusing on sharpening my skills in HTML, CSS, JavaScript, and jQuery.<br>👯 I'm always on the lookout for new opportunities to collaborate with other developers and contribute to the tech community. <br>⚡ Fun fact, I'm lazy but smart!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Hello+There!;I+am+Nelly+Telli.;I+am+a+Full-Stack+Developer.)](https://git.io/typing-svg) 
+
+---
+
+## <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmMxYWI2MzZiMmQxZWRhNzA0OWRhODk4OGU0OTZlODJjMGQwYTU0NCZjdD1z/paTz7UZbPfTZFRYnnB/giphy.gif" width="60"> About Me
+<p><img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmMxYWI2MzZiMmQxZWRhNzA0OWRhODk4OGU0OTZlODJjMGQwYTU0NCZjdD1z/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30"> I am a Full Stack Developer from Togo.</p>
+<p><img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmMxYWI2MzZiMmQxZWRhNzA0OWRhODk4OGU0OTZlODJjMGQwYTU0NCZjdD1z/f7Yl50km2i3Mo3oSe6/giphy.gif" width="30"> I’m currently enhancing my coding experience through pair-programming.</p>
+<p><img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmMxYWI2MzZiMmQxZWRhNzA0OWRhODk4OGU0OTZlODJjMGQwYTU0NCZjdD1z/FkdU6Or6txxpPdOsL8/giphy.gif" width="30"> Looking out for new opportunities to collaborate with other developers.</p>
+<p><img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmMxYWI2MzZiMmQxZWRhNzA0OWRhODk4OGU0OTZlODJjMGQwYTU0NCZjdD1z/uproGa8t6xLAeyebCr/giphy.gif" width="30"> Fun fact: The average coder writes 10 to 12 lines of code every day.</p>
+
+---
+<br>
+
+## <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmMxYWI2MzZiMmQxZWRhNzA0OWRhODk4OGU0OTZlODJjMGQwYTU0NCZjdD1z/VDdh2wgmzsXAc7FCd7/giphy.gif" width="60"> My Skills:
 
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)<br> ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)<br>  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
-# 📊 GitHub Stats: <br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=lily4178993&theme=vision-friendly-dark&hide_border=false)<br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,javascript,ruby,rails,webpack,mysql,ps,&perline=15)](https://skillicons.dev)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+---
+<br>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmMxYWI2MzZiMmQxZWRhNzA0OWRhODk4OGU0OTZlODJjMGQwYTU0NCZjdD1z/RVWSqOsgDAq0W3051o/giphy.gif" width="60"> My stats: <br>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=lily4178993&theme=react&hide_border=true&include_all_commits=false&count_private=true" alt="Github contributbion badge" width="auto">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lily4178993&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Github most used languages badge" width="auto">
+<img align="none" src="https://github-readme-streak-stats.herokuapp.com/?user=lily4178993&theme=react&hide_border=true" alt="Github streak-stats badge" width="auto">
+
+---
+<br>
+
+## <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmMxYWI2MzZiMmQxZWRhNzA0OWRhODk4OGU0OTZlODJjMGQwYTU0NCZjdD1z/eJI3szMKzUWbaALqcn/giphy.gif" width="60"> My contacts: <br>
+📫 You can reach me at nellytelli@gmail.com.
+
+Feel free to connect with me for any professional inquiries or discussions.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelly-t-330414266/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@nelly_telli) 

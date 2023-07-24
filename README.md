@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Gochi+Hand&size=30&pause=1000&vCenter=true&width=435&lines=Hello+There!+I+am+Nelly+Telli.;I+am+a+Full+Stack+Developer.)](https://git.io/typing-svg)
+# <h1 align="center">Hello everyone 👋! <br /> I'm Nelly Telli.</h1>
 
 ---
 

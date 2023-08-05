@@ -14,7 +14,7 @@
 ## <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmMxYWI2MzZiMmQxZWRhNzA0OWRhODk4OGU0OTZlODJjMGQwYTU0NCZjdD1z/VDdh2wgmzsXAc7FCd7/giphy.gif" width="60"> My Skills:
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,javascript,react,webpack,mysql,ps,&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwindcss,javascript,react,webpack,mysql,ps,&perline=15)](https://skillicons.dev)
 
 ---
 <br>

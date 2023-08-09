@@ -20,9 +20,7 @@
 <br>
 
 ## <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmMxYWI2MzZiMmQxZWRhNzA0OWRhODk4OGU0OTZlODJjMGQwYTU0NCZjdD1z/RVWSqOsgDAq0W3051o/giphy.gif" width="60"> My stats: <br>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=lily4178993&theme=react&hide_border=true&include_all_commits=false&count_private=true" alt="Github contributbion badge" width="auto">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lily4178993&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Github most used languages badge" width="auto">
-<img align="none" src="https://github-readme-streak-stats.herokuapp.com/?user=lily4178993&theme=react&hide_border=true" alt="Github streak-stats badge" width="auto">
+<img align="none" src="https://github-readme-stats.vercel.app/api?username=lily4178993&theme=react&hide_border=true&include_all_commits=false&count_private=true" alt="Github contributbion badge" width="auto">
 
 ---
 <br>
@@ -32,4 +30,3 @@
 
 Feel free to connect with me for any professional inquiries or discussions.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelly-t-330414266/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@nelly_telli) 

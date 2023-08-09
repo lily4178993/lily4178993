@@ -1,32 +1,57 @@
-# <h1 align="center">Hello everyone 👋! <br /> I'm Nelly Telli.</h1>
+# Nelly Telli - Full Stack Developer
 
 ---
 
-## <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmMxYWI2MzZiMmQxZWRhNzA0OWRhODk4OGU0OTZlODJjMGQwYTU0NCZjdD1z/paTz7UZbPfTZFRYnnB/giphy.gif" width="60"> About Me
-<p><img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmMxYWI2MzZiMmQxZWRhNzA0OWRhODk4OGU0OTZlODJjMGQwYTU0NCZjdD1z/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30"> I am a Full Stack Developer from Togo.</p>
-<p><img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmMxYWI2MzZiMmQxZWRhNzA0OWRhODk4OGU0OTZlODJjMGQwYTU0NCZjdD1z/f7Yl50km2i3Mo3oSe6/giphy.gif" width="30"> I’m currently enhancing my coding experience through pair-programming.</p>
-<p><img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmMxYWI2MzZiMmQxZWRhNzA0OWRhODk4OGU0OTZlODJjMGQwYTU0NCZjdD1z/FkdU6Or6txxpPdOsL8/giphy.gif" width="30"> Looking out for new opportunities to collaborate with other developers.</p>
-<p><img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmMxYWI2MzZiMmQxZWRhNzA0OWRhODk4OGU0OTZlODJjMGQwYTU0NCZjdD1z/uproGa8t6xLAeyebCr/giphy.gif" width="30"> Fun fact: The average coder writes 10 to 12 lines of code every day.</p>
+## About Me
+<p>I am a dedicated Full Stack Developer from Togo with a passion for crafting robust and innovative solutions.</p>
+<p>Currently, I am elevating my coding prowess through pair-programming, and I am eager to embark on new collaborative opportunities within the developer community.</p>
+<p>Fun fact: Did you know that the average coder writes 10 to 12 lines of code every day?</p>
 
 ---
 <br>
 
-## <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmMxYWI2MzZiMmQxZWRhNzA0OWRhODk4OGU0OTZlODJjMGQwYTU0NCZjdD1z/VDdh2wgmzsXAc7FCd7/giphy.gif" width="60"> My Skills:
+## My Skills
 
+<p>My technical expertise spans a range of technologies, including:</p>
+
+- HTML, CSS, Sass, Bootstrap, Tailwind CSS
+- JavaScript, React, Webpack
+- MySQL
+- Photoshop
+
+**Explore my skills in more detail**: 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwindcss,javascript,react,webpack,mysql,ps,&perline=15)](https://skillicons.dev)
 
 ---
 <br>
 
-## <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmMxYWI2MzZiMmQxZWRhNzA0OWRhODk4OGU0OTZlODJjMGQwYTU0NCZjdD1z/RVWSqOsgDAq0W3051o/giphy.gif" width="60"> My stats: <br>
-<img align="none" src="https://github-readme-stats.vercel.app/api?username=lily4178993&theme=react&hide_border=true&include_all_commits=false&count_private=true" alt="Github contributbion badge" width="auto">
+## GitHub Stats
+
+<p>Get a snapshot of my GitHub activity:</p>
+<img align="none" src="https://github-readme-stats.vercel.app/api?username=lily4178993&theme=react&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub contribution badge" width="auto">
 
 ---
 <br>
 
-## <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmMxYWI2MzZiMmQxZWRhNzA0OWRhODk4OGU0OTZlODJjMGQwYTU0NCZjdD1z/eJI3szMKzUWbaALqcn/giphy.gif" width="60"> My contacts: <br>
-📫 You can reach me at nellytelli@gmail.com.
+## Let's Connect
 
-Feel free to connect with me for any professional inquiries or discussions.
+Feel free to reach out to me for any professional inquiries or discussions:
+
+📫 Email: nellytelli@gmail.com
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelly-t-330414266/)
+
+Connect with me on LinkedIn to expand our professional networks and explore potential collaborations.
+
+Looking forward to connecting and collaborating with you!
+
+Best regards,
+Nelly Telli
+
+---
+
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmMxYWI2MzZiMmQxZWRhNzA0OWRhODk4OGU0OTZlODJjMGQwYTU0NCZjdD1z/paTz7UZbPfTZFRYnnB/giphy.gif" width="100" alt="Coder GIF">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmMxYWI2MzZiMmQxZWRhNzA0OWRhODk4OGU0OTZlODJjMGQwYTU0NCZjdD1z/UVG0BN8TOMKkPOJS6e/giphy.gif" width="100" alt="Pair Programming GIF">
+</p>

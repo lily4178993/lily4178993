@@ -1,9 +1,9 @@
-# Nelly Telli - Full Stack Developer
+# Nelly Telli - Front-End Developer
 
 ---
 
 ## About Me
-<p>I am a dedicated Full Stack Developer from Togo with a passion for crafting robust and innovative solutions.</p>
+<p>I am a dedicated Front-End Developer from Togo with a passion for crafting robust and innovative solutions.</p>
 <p>Currently, I am elevating my coding prowess through pair-programming, and I am eager to embark on new collaborative opportunities within the developer community.</p>
 <p>Fun fact: Did you know that the average coder writes 10 to 12 lines of code every day?</p>
 

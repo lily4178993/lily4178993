@@ -3,27 +3,39 @@
 ---
 
 ## About Me
-<p>I am a dedicated Front-End Developer from Togo with a passion for crafting robust and innovative solutions.</p>
-<p>Currently, I am elevating my coding prowess through pair-programming, and I am eager to embark on new collaborative opportunities within the developer community.</p>
-<p>Fun fact: Did you know that the average coder writes 10 to 12 lines of code every day?</p>
 
----
+I am a dedicated **Front-End Developer** with a passion for crafting robust and innovative solutions. 
+
+Currently, I am elevating my coding prowess through pair-programming, and I am eager to embark on new collaborative opportunities within the developer community.
+
 <br>
 
 ## My Skills
 
-<p>My technical expertise spans a range of technologies, including:</p>
+My technical expertise covers a range of technologies and tools:
 
-- HTML, CSS, Sass, Bootstrap, Tailwind CSS
-- JavaScript, React, Webpack
-- MySQL
-- Photoshop
+### Web Development
+![Web Development Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwindcss,javascript,react,redux,jest,webpack&perline=10)
 
-**Explore my skills in more detail**: 
+- **HTML**: Structured and semantic web pages.
+- **CSS**: Responsive and visually appealing interfaces.
+- **Sass**: Streamlined and scalable stylesheets.
+- **Bootstrap and Tailwind CSS**: Efficient front-end development.
+- **JavaScript**: Interactive and dynamic web applications.
+- **React**: Efficient and reusable components.
+- **Redux**: Robust state management.
+- **Jest**: Comprehensive testing.
+- **Webpack**: Build optimization and dependency management.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwindcss,javascript,react,webpack,mysql,ps,&perline=15)](https://skillicons.dev)
+### Graphics and Design
+<img width="60" height="60" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="adobe-photoshop--v1" align="left"/>
+<img width="60" height="60" src="https://img.icons8.com/fluency/100/canva-app.png" alt="canva-app"/>
 
----
+- **Photoshop**: Graphic design and image manipulation.
+- **Canva**: Quick and effective design solutions.
+
+
+
 <br>
 
 ## GitHub Stats
@@ -36,18 +48,13 @@
 
 ## Let's Connect
 
-Feel free to reach out to me for any professional inquiries or discussions:
+If you have any professional inquiries or would like to discuss collaboration opportunities, please feel free to reach out to me:
 
-📫 Email: nellytelli@gmail.com
+- Email: [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:nellytelli@gmail.com)
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelly-t-330414266/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelly-t-330414266/)
+I'm looking forward to connecting with you and exploring potential collaborations!
 
-Connect with me on LinkedIn to expand our professional networks and explore potential collaborations.
-
-Looking forward to connecting and collaborating with you!
-
-Best regards,
-Nelly Telli
 
 ---
 

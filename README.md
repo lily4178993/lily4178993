@@ -1,5 +1,3 @@
-# Nelly Telli - Front-End Developer
-
 ---
 
 ## About Me
@@ -40,8 +38,13 @@ My technical expertise covers a range of technologies and tools:
 
 ## GitHub Stats
 
-<p>Get a snapshot of my GitHub activity:</p>
-<img align="none" src="https://github-readme-stats.vercel.app/api?username=lily4178993&theme=react&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub contribution badge" width="auto">
+
+
+<div align="center">
+  <p>Get a snapshot of my GitHub activity:</p><br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lily4178993&theme=monokai-metallian"/>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lily4178993&theme=dracula"/>
+</div>
 
 ---
 <br>

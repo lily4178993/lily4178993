@@ -54,7 +54,7 @@ My technical expertise covers a range of technologies and tools:
 If you have any professional inquiries or would like to discuss collaboration opportunities, please feel free to reach out to me:
 
 - Email: [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:nellytelli@gmail.com)
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelly-t-330414266/)
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nellytelli)
 
 I'm looking forward to connecting with you and exploring potential collaborations!
 

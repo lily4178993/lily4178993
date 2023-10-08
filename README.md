@@ -50,8 +50,3 @@ If you have any professional inquiries or would like to discuss collaboration op
 I'm looking forward to connecting with you and exploring potential collaborations!
 
 ---
-
-<p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmMxYWI2MzZiMmQxZWRhNzA0OWRhODk4OGU0OTZlODJjMGQwYTU0NCZjdD1z/paTz7UZbPfTZFRYnnB/giphy.gif" width="100" alt="Coder GIF">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmMxYWI2MzZiMmQxZWRhNzA0OWRhODk4OGU0OTZlODJjMGQwYTU0NCZjdD1z/UVG0BN8TOMKkPOJS6e/giphy.gif" width="100" alt="Pair Programming GIF">
-</p>

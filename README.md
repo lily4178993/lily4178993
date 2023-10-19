@@ -22,11 +22,6 @@ My technical expertise covers a range of technologies and tools:
 <a href="https://jestjs.io/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jest" alt="Jest" width="60" height="60"/> </a>
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=webpack" alt="Webpack" width="60" height="60"/> </a>
 
-### Graphics and Design
-
-<a href="https://pixlr.com/" target="_blank" rel="noreferrer"> <img width="90" height="30" src="https://github.com/lily4178993/lily4178993/assets/101261047/ae9136db-6379-4dec-8e4a-824745192e1b" alt="Pixlr" align="left"/> </a>
-<a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img width="60" height="30" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg" alt="Canva"/> </a>
-
 <br>
 
 ## GitHub Stats

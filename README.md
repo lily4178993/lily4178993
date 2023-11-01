@@ -37,7 +37,7 @@ My technical expertise covers a range of technologies and tools:
 
   <p>Get a snapshot of my GitHub activity:</p><br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=lily4178993&show_icons=true&locale=en&theme=monokai"/>
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lily4178993&show_icons=true&locale=en&theme=monokai"/>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lily4178993&show_icons=true&locale=en&theme=dracula"/>
 
 ---
 <br>

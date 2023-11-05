@@ -36,8 +36,8 @@ My technical expertise covers a range of technologies and tools:
 ## GitHub Stats
 
   <p>Get a snapshot of my GitHub activity:</p><br>
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lily4178993&show_icons=true&locale=en&theme=monokai&show=reviews,prs_merged,prs_merged_percentage&rank_icon=percentile&include_all_commits=true"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lily4178993&show_icons=true&locale=en&theme=radical&hide_current_streak=true"/>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lily4178993&show_icons=true&locale=en&theme=radical&show=reviews,prs_merged,prs_merged_percentage&rank_icon=percentile&include_all_commits=true"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lily4178993&show_icons=true&locale=en&theme=dracula&hide_current_streak=true"/>
 
 ---
 <br>

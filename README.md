@@ -23,7 +23,6 @@ My technical expertise covers a range of technologies and tools:
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=webpack" alt="Webpack icon" width="60" height="60"/></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgres" alt="postgres icon" width="60" height="60"/></a>
 
-
 ### Design & Tools
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="Git icon" width="60" height="60"/></a>
 <a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" alt="Github icon" width="60" height="60"/></a>

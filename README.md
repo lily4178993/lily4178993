@@ -61,7 +61,7 @@
   </tr>
 </table>
 
-[![Languages Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=lily4178993&layout=pie&langs_count=20&size_weight=0.5&count_weight=0.5&disable_animations=false&custom_title=Languages%20Chart&theme=rose)](https://github.com/anuraghazra/github-readme-stats)
+[![Languages Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=lily4178993&layout=pie&langs_count=20&size_weight=0.5&count_weight=0.5&disable_animations=false&custom_title=Languages%20Chart&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 <br>
@@ -70,8 +70,8 @@
 <div align="center">
 
   ## My GitHub Stats
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lily4178993&show_icons=true&locale=en&theme=rose&show=reviews,prs_merged,prs_merged_percentage&rank_icon=percentile&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lily4178993&show_icons=true&locale=en&theme=rose&hide_current_streak=false" height="180"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lily4178993&show_icons=true&locale=en&theme=swift&show=reviews,prs_merged,prs_merged_percentage&rank_icon=percentile&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lily4178993&show_icons=true&locale=en&theme=swift&hide_current_streak=false" height="180"/>
 </div>
 
 ---

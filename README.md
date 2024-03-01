@@ -70,8 +70,8 @@
 <div align="center">
 
   ## My GitHub Stats
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lily4178993&show_icons=true&locale=en&theme=dracula&show=reviews,prs_merged,prs_merged_percentage&rank_icon=percentile&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lily4178993&show_icons=true&locale=en&theme=dracula&hide_current_streak=false" height="180"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lily4178993&show_icons=true&locale=en&theme=rose&show=reviews,prs_merged,prs_merged_percentage&rank_icon=percentile&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lily4178993&show_icons=true&locale=en&theme=rose&hide_current_streak=false" height="180"/>
 </div>
 
 ---

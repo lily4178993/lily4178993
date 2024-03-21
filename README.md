@@ -61,7 +61,7 @@
   </tr>
 </table>
 
-[![Languages Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=lily4178993&layout=pie&langs_count=20&size_weight=0.5&count_weight=0.5&disable_animations=false&custom_title=Languages%20Chart&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Languages Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=lily4178993&layout=pie&langs_count=20&size_weight=0.5&count_weight=0.5&disable_animations=false&custom_title=Languages%20Chart&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 <br>

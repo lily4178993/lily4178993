@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Hi, I'm Nelly Telli
+# Hi, I'm Nelly
 </div>
 
 

@@ -8,7 +8,6 @@
 
 👩‍💻 **Fullstack Developer Focused on Front-End**
 
-- 🚀 Crafting robust and innovative solutions is my forte.
 - 🤝 Engaging in dynamic pair-programming to level up my coding skills.
 - 🌟 Excited about diving into fresh collaborative opportunities within the thriving developer community.
 
@@ -66,18 +65,3 @@
 <br>
 <br>
 
-<div align="center">
-
-  ## My GitHub Stats
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lily4178993&show_icons=true&locale=en&theme=swift&show=reviews,prs_merged,prs_merged_percentage&rank_icon=percentile&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lily4178993&show_icons=true&locale=en&theme=swift&hide_current_streak=false" height="180"/>
-</div>
-
----
-<br>
-
-<div align="center">
-      <img src="https://komarev.com/ghpvc/?username=lily4178993&style=for-the-badge&color=701516"/>
-        <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&color=701516&url=https://api.github-star-counter.workers.dev/user/lily4178993"/>
-  
-</div>
